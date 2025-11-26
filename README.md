@@ -40,4 +40,4 @@ Para ejecutar este proyecto necesitas tener instalado:
 Este software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita. El autor no se hace responsable de ningún daño directo, indirecto, incidental o consecuente que pueda surgir del uso o la incapacidad de este software.
 
 **Nota sobre originalidad:**
-Este código ha sido desarrollado con fines personales y educativos. El autor se deslinda de cualquier responsabilidad relacionada con coincidencias no intencionales.El usuario asume toda la responsabilidad por el uso de este código.
+Este código ha sido desarrollado con fines personales y educativos. El autor se deslinda de cualquier responsabilidad relacionada con coincidencias no intencionales. El usuario asume toda la responsabilidad por el uso de este código.
